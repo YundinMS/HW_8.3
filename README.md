@@ -78,6 +78,7 @@ build:
 ```
 
 ![2 задание ](https://github.com/YundinMS/Screen/blob/main/succsess.png)`
+
 ![3_2 задание ](https://github.com/YundinMS/Screen/blob/main/passed.png)`
 
 
